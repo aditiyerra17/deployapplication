@@ -1,0 +1,10 @@
+# website.yaml
+website:
+  title: Welcome Page
+  author: Your Name
+  description: A simple welcome page
+  contact_email: contact@example.com
+  styles:
+    primary_color: "#333"
+    background_color: "#f0f0f0"
+    text_color: "#fff"
